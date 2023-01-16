@@ -1,0 +1,7 @@
+*
+!*/
+!*.*
+.vscode/
+*.dSYM
+*.exe
+.DS_Store
